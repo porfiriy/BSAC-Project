@@ -128,6 +128,7 @@ body{
 	top: 20px;
 	left: 0;
 	border-radius: 5px;
+	color: black;
 }
 .auth-body__bttns-container {
 	width: 70%;
